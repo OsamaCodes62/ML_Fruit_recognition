@@ -117,7 +117,7 @@ Different varieties of the same fruit (apple for instance) are stored as belongi
 
 ## Repository structure ##
 
-Folders [Training](Training) and [Test](Test) contain images for training and testing purposes.
+Folders Training and Test contain images for training and testing purposes.
 
 ## Alternate download ##
 
