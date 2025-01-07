@@ -1,7 +1,3 @@
-Here’s the updated `README.md` assuming a `requirements.txt` file for the dependencies:
-
----
-
 # Fruit Classification Using Convolutional Neural Networks (CNN)
 
 This project leverages a deep learning model to classify images of fruits into multiple categories using a Convolutional Neural Network (CNN). The model is trained on a labeled dataset of fruit images and tested for accuracy and performance.
