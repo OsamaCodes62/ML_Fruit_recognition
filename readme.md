@@ -155,14 +155,6 @@ Mihai Oltean, __Fruits-360 dataset__, 2017-.
 
 ---
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
----
-
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, create an issue, or submit a pull request.
 
----
-
-If you'd like to include specific content for `requirements.txt` or further tweaks, let me know!
